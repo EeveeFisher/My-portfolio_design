@@ -13,7 +13,11 @@ A modern portfolio and candidate dashboard built with Next.js, React, and Tailwi
 ## 项目截图
 
 ![项目主界面](./assets/1.jpg)
-
+![Tab](./assets/2.jpg)
+![Tab](./assets/3.jpg)
+![Tab](./assets/4.jpg)
+![Tab](./assets/5.jpg)
+![Tab](./assets/6.jpg)
 ## Getting Started
 
 ### 1. Clone the repository
