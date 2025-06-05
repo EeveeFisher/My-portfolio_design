@@ -1,5 +1,5 @@
-Instruction to use:
 # My-portfolio_design
+
 A modern portfolio and candidate dashboard built with Next.js, React, and TailwindCSS.
 
 ## Features
@@ -9,19 +9,50 @@ A modern portfolio and candidate dashboard built with Next.js, React, and Tailwi
 - Project upload and PDF export
 - Responsive UI, dark mode support
 
+
+## 项目截图
+
+![项目主界面](./Assets/1.jpg)
+
 ## Getting Started
 
-### 1. CLone
+### 1. Clone the repository
 
-```bash
+```sh
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```
 
-```bash
+### 2. Install dependencies
+
+```sh
 npm install
 npm install html2canvas jspdf
-npm run dev
+```
 
-Then you shall able to see it running on  http://localhost:3000 
+### 3. Start the development server
+
+```sh
+npm run dev
+```
+
+Then open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Build for production
+
+```sh
+npm run build
+npm start
+```
+
+## Notes
+
+- Node.js 16+ is recommended.
+- Project screenshots are in the `Assets/` folder. You can update the image names and paths as needed.
+- If you add new features, please update this README.
+
+## License
+
+MIT
 
 
